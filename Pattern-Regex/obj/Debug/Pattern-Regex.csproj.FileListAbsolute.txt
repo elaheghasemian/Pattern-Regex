@@ -1,0 +1,6 @@
+E:\Pattern-Regex\Pattern-Regex\bin\Debug\Pattern-Regex.exe.config
+E:\Pattern-Regex\Pattern-Regex\bin\Debug\Pattern-Regex.exe
+E:\Pattern-Regex\Pattern-Regex\bin\Debug\Pattern-Regex.pdb
+E:\Pattern-Regex\Pattern-Regex\obj\Debug\Pattern-Regex.csprojResolveAssemblyReference.cache
+E:\Pattern-Regex\Pattern-Regex\obj\Debug\Pattern-Regex.exe
+E:\Pattern-Regex\Pattern-Regex\obj\Debug\Pattern-Regex.pdb
